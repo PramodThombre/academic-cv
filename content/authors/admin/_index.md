@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 吳健雄
+title: 
 
 # Name pronunciation (optional)
 name_pronunciation: Pramod Thombre
@@ -55,12 +55,12 @@ skills:
         percent: 80
         icon: python
         icon_pack: fab
-      - name: Data Science
+      - name: C++
         description: ''
         percent: 100
         icon: chart-line
         icon_pack: fas
-      - name: SQL
+      - name: tcl/tk
         description: ''
         percent: 40
         icon: database
